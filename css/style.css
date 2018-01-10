@@ -67,6 +67,18 @@ p {
 	font-size: 18px;
 }
 
+aside {
+float: right;
+display: block;
+}
+
+h4 {
+	font-family: Raleway; sans-serif;
+	text-align: left;
+	color: #0D2C40;
+	font-weight: 300px;
+}
+
 footer {
 	text-transform: uppercase;
 	padding: 0 20px;
@@ -76,6 +88,7 @@ footer {
 	letter-spacing: .08em;
 	font-weight: 500;
 	font-family: "Raleway", Serif;
+	clear: both;
 }
 
 .copyright {
@@ -98,12 +111,5 @@ font-size: 0;
 .name {
 	color: #F15B31;
 	font-weight: 700;
-}
-
-h4 {
-	font-family: Raleway; sans-serif;
-	text-align: left;
-	color: #0D2C40;
-	font-weight: 300px;
 }
 
