@@ -67,17 +67,7 @@ p {
 	font-size: 18px;
 }
 
-aside {
-float: right;
-display: block;
-}
 
-h4 {
-	font-family: Raleway; sans-serif;
-	text-align: left;
-	color: #0D2C40;
-	font-weight: 300px;
-}
 
 footer {
 	text-transform: uppercase;
@@ -112,4 +102,5 @@ font-size: 0;
 	color: #F15B31;
 	font-weight: 700;
 }
+
 
